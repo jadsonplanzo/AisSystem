@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AisSystem</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_about">Sobre</string>
+    <string name="title_activity_teste">teste</string>
+
+    <string name="ok">OK</string>
+
+
+    <string name="about_dialog_title">Ais System 2016</string>
+
+
+     <string name="about_dialog_text">
+
+<![CDATA[
+<b>Iseven Design</b><br>
+Versao %s<br><br>
+<a href="http://www.aissystem.com.br">http://aissytem.com.br</a><br><br>
+<a href="https://www.facebook.com/aissytem">http://facebook.com/aissystem</a><br><br>
+<a href="https://www.isevendesign.com">https://isevendesign.com</a>
+	]]>
+	</string>
+</resources>
